@@ -11,19 +11,19 @@ The following trends were found when analyzing the kickstarter data.
 
 The above points are supported by the following charts.
 
-![Outcomes Based on Launch Date Chart](Outcomes Based on Launch Date Chart.png)
+![Outcomes Based on Launch Date Chart]([Outcomes Based on Launch Date Chart.png](https://github.com/FrankPassalacqua88/kickstarter-analysis/blob/3fea4ed1c8c9ad47341a01d8f4ec71e64bc2b5a0/Outcomes%20Based%20on%20Launch%20Date%20Chart.png))
 
-![Parent Category Outcomes Chart](kickstarter-analysis/Parent Category Outcomes Chart.png)
+![Parent Category Outcomes Chart]([kickstarter-analysis/Parent Category Outcomes Chart.png](https://github.com/FrankPassalacqua88/kickstarter-analysis/blob/3fea4ed1c8c9ad47341a01d8f4ec71e64bc2b5a0/Parent%20Category%20Outcomes%20Chart.png))
 
 ## Analysis of the Plays Subcatagory in Great Britain 
 
 The plays subcategory has a more sucsessful then failed campaigns. 
 
-![Subcategory Outcomes Chart](kickstarter-analysis/Subcategory Outcomes Chart.png)
+![Subcategory Outcomes Chart]([kickstarter-analysis/Subcategory Outcomes Chart.png](https://github.com/FrankPassalacqua88/kickstarter-analysis/blob/3fea4ed1c8c9ad47341a01d8f4ec71e64bc2b5a0/Subcategory%20Outcomes%20Chart.png))
 
 By using a box plot (shown below) the following points of interest were found.
 
-![Goal vs Pledged Box Plot.png](kickstarter-analysis/Goal vs Pledged Box Plot.png)
+![Goal vs Pledged Box Plot.png]([kickstarter-analysis/Goal vs Pledged Box Plot.png](https://github.com/FrankPassalacqua88/kickstarter-analysis/blob/3fea4ed1c8c9ad47341a01d8f4ec71e64bc2b5a0/Goal%20vs%20Pledged%20Box%20Plot.png))
 
 ## Conclusion
 
